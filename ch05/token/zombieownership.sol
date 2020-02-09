@@ -1,7 +1,8 @@
 pragma solidity ^0.5.11;
 
-import "./zombieattack.sol";
+iimport "./zombieattack.sol";
+import "./erc721.sol";
 
-contract ZombieOwnership is ZombieAttack {
-    
+contract ZombieOwnership is ZombieAttack, ERC721 {
+
 }
