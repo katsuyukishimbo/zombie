@@ -1,4 +1,4 @@
-pragma solidity ^0.5.11;
+pragma solidity ^0.6.0;
 /**
  * @title SafeMath
  * @dev Math operations with safety checks that throw on error
